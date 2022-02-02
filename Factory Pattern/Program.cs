@@ -30,7 +30,7 @@ namespace Factory_Pattern
     }
     abstract interface GeometricShape<ShapeType>
     {
-           void draw()
+        void draw()
         {
 
         }
